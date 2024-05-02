@@ -1,0 +1,27 @@
+{
+  "name": "podoliak2004",
+  "version": "1.0.0",
+  "description": "Smetanka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Podoliak2121/podoliak2004.git"
+  },
+  "dependencies": {
+    "leleka2580130": "1.0.2",
+    "paket228": "1.0.3",
+    "trukytnuk": "1.0.0",
+    "galetska222": "1.0.1",
+    "smetanka": "1.0.2",
+    "morvunka228": "1.0.3"
+    },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Podoliak2121/podoliak2004/issues"
+  },
+  "homepage": "https://github.com/Podoliak2121/podoliak2004#readme"
+}
